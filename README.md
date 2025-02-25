@@ -2,8 +2,7 @@
 
 A responsive Starbucks landing page built with pure HTML and CSS (no JavaScript).
 
-![Starbucks Landing Page Preview](![Image](https://github.com/user-attachments/assets/ec7bdff6-7333-4a68-a24a-0511b4d2e884))
-
+![Starbucks Landing Page Preview](https://github.com/user-attachments/assets/ec7bdff6-7333-4a68-a24a-0511b4d2e884)
 ## 🚀 Features
 
 - **100% Responsive Design** - Fully functional on desktop, tablet, and mobile devices
