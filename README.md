@@ -42,8 +42,6 @@ This project was a great exercise in:
 
 This project is for educational purposes only. Starbucks branding and imagery are property of Starbucks Corporation.
 
-[View Live Demo](https://your-demo-link-here.com)
-
 ---
 
 ⭐️ Feel free to star this repo if you found it useful!
